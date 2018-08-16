@@ -1,0 +1,151 @@
+{
+  "BACK_BUTTON_TEXT" : "Back",
+
+  "NAME": "Name",
+  "EMAIL": "Email",
+  "USERNAME": "Username",
+  "PASSWORD": "Password",
+  "LOGIN": "Sign in",
+  "LOGOUT": "Sign out",
+  "PLEASE_LOGIN": "Not authenticated. Please login",
+
+  "SEARCH_TITLE": "Search",
+  "SETTINGS_TITLE": "Settings",
+
+  "MAP_TITLE": "Map",
+
+  "TUTORIAL_SKIP_BUTTON" : "Skip",
+  "TUTORIAL_CONTINUE_BUTTON" : "Continue",
+
+  "TUTORIAL_SLIDE1_TITLE": "Welcome to the Ionic Super Starter",
+  "TUTORIAL_SLIDE1_DESCRIPTION": "The <b>Ionic Super Starter</b> is a fully-featured Ionic starter with many pre-built pages and best practices.",
+
+  "TUTORIAL_SLIDE2_TITLE": "How to use the Super Starter",
+  "TUTORIAL_SLIDE2_DESCRIPTION": "Assemble the various page types you want and remove the ones you don't. We've provided many common mobile app page layouts, like login and signup pages, tabs, and this tutorial page.",
+
+  "TUTORIAL_SLIDE3_TITLE": "Getting Started",
+  "TUTORIAL_SLIDE3_DESCRIPTION": "Need help? Check out the Super Starter README for a full tutorial",
+
+  "TUTORIAL_SLIDE4_TITLE": "Ready to Play?",
+
+
+  "CONTINUE": "Continue",
+  "WELCOME_INTRO" : "The starting point for your Vehicle Inspection App",
+  "HOME_INTRO" : "The home page for your next great Ionic app",
+  "WELCOME_TITLE": "Welcome",
+  "WELCOME_GO_TO": "Go",
+  "WELCOME_SIGN_IN" : "Hi",
+
+  "SETTINGS_PAGE_TITLE": "Settings",
+  "SETTINGS_OPTION1": "Side A",
+  "SETTINGS_OPTION2": "Side B",
+  "SETTINGS_OPTION3": "Location",
+  "SETTINGS_OPTION4": "Option 4",
+  "SETTINGS_OPTION5": "Option 5 controlled by feature toggle",
+
+  "SETTINGS_PROFILE_BUTTON" : "Edit Profile",
+
+  "SETTINGS_PAGE_PROFILE": "Edit Profile",
+
+  "LOGIN_TITLE": "Sign in",
+  "LOGIN_ERROR": "Unable to sign in. Please check your account information and try again.",
+  "LOGIN_BUTTON": "Sign in",
+  "SIGNUP_TITLE": "Sign up",
+  "SIGNUP_ERROR": "Unable to create account. Please check your account information and try again.",
+  "SIGNUP_BUTTON": "Sign up",
+
+  "LIST_MASTER_TITLE": "Items",
+
+  "ITEM_CREATE_TITLE": "New Item",
+  "ITEM_CREATE_CHOOSE_IMAGE": "Add Image",
+
+  "ITEM_NAME_PLACEHOLDER" : "Name",
+  "ITEM_ABOUT_PLACEHOLDER" : "About",
+
+  "DONE_BUTTON" : "Done",
+  "CANCEL_BUTTON" : "Cancel",
+  "DELETE_BUTTON" : "Delete",
+
+  "CARDS_TITLE": "Social",
+
+  "SEARCH_PAGE_TITLE": "Search",
+  "SEARCH_PLACEHOLDER" : "Please Enter a Stocknumber or Vin",
+
+  "SPLUNKTEST_PAGE_TITLE": "Splunk Test",
+  "SPLUNKTEST_PLACEHOLDER": "Please Enter a Message",
+
+  "BS_VS_PREV_DT_VEHICLE": "Previous DT Vehicle",
+  "BS_VS_VIN": "VIN",
+  "BS_VS_TRIM": "Trim",
+  "BS_VS_SELLER": "Seller",
+  "BS_VS_PRICE_CAP": "Price Cap",
+  "BS_VS_BOOK_VALUE": "DT Book Value",
+  "BS_VS_RECON_ESTIMATE": "Recon Estimate",
+  "BS_VS_PROXY_BID": "Bid Amount",
+  "BS_VS_VEHICLE_REPORT": "Vehicle Report",
+  "BS_VS_ANNOUNCEMENTS": "Announcements",
+  "BS_VS_AUCTION_HOUSE": "Auction House",
+
+
+ 
+
+  "LA_VS_PREV_DT_VEHICLE": "Previous DT Vehicle",
+  "LA_VS_VIN": "VIN",
+  "LA_VS_TRIM": "Trim",
+  "LA_VS_SELLER": "Seller",
+  "LA_VS_PRICE_CAP": "Price Cap",
+  "LA_VS_BOOK_VALUE": "DT Book Value",
+  "LA_VS_RECON_ESTIMATE": "Recon Estimate",
+  "LA_VS_PROXY_BID": "Bid Amount",
+  "LA_VS_VEHICLE_REPORT": "Vehicle Report",
+  "LA_VS_ANNOUNCEMENTS": "Announcements",
+  "LA_VS_AUCTION_HOUSE": "Auction House",
+
+  "LA_INS_DASH_LIGHTS":"Dash Lights",
+  "LA_INS_NOTES":"Notes",
+  "LA_INS_TIRES_AND_GLASS":"Tires & Glass",
+  "LA_INS_EXTERIOR":"Exterior Cosmetic",
+  "LA_INS_INTERIOR":"Interior",
+  "LA_INS_OTHER":"Other",
+  "LA_INS_TOTAL":"Total",
+  "LA_INS_INSPECTION_BUTTON": "Inspection",
+  "LA_INS_SAVE_BUTTON": "Save",
+
+  "DECODE_LABEL": "Valuation",
+  "DECODE_MSG": "Run vehicle decode...",
+  "DECODED_MSG": "Decode complete",
+  "DECODE_VIN_NOT_FOUND": "Kbb vehicle data not found for VIN",
+  "DECODE_TRIM": "Trim",
+  "DECODE_ENGINE": "Engine",
+  "DECODE_DRIVE_TRAIN": "Drivetrain",
+  "DECODE_TRANSMISSION": "Transmission",
+  "DECODE_COLOR": "Color",
+  "DECODE_OPTIONS": "Options",
+  "DECODE_NO_OPTIONS_MSG": "No vehicle options found",
+  
+  "BUY_STRATEGY_PAGE_TITLE": "Preview",
+  "LIVE_AUCTION_PAGE_TITLE": "Live Auctions",
+  "ACTION_ITEMS_PAGE_TITLE": "Action Items",
+  "MY_BUYS_PAGE_TITLE": "My Buys",
+
+  "VS_PREV_DT_VEHICLE": "Previous DT Vehicle",
+  "VS_VIN": "VIN",
+  "VS_TRIM": "Trim",
+  "VS_SELLER": "Seller",
+  "VS_PRICE_CAP": "Price Cap",
+  "VS_BOOK_VALUE": "DT Book Value",
+  "VS_RECON_ESTIMATE": "Recon Estimate",
+  "VS_PROXY_BID": "Bid Amount",
+  "VS_VEHICLE_REPORT": "Vehicle Report",
+  "VS_ANNOUNCEMENTS": "Announcements",
+  "VS_AUCTION_HOUSE": "Auction House",
+  "VS_ANNOUNCEMENT_DEFAULT_VALUE": "No new announcements at this time.",
+  "VS_DEFAULT_BID_STATUS": "Bid Status",
+  "VS_WON_BID_STATUS": "Winning Bid Amount",
+  "VS_LOST_BID_STATUS": "Lost Bid Amount",
+  "VS_NO_BID_STATUS": "No Bid",
+  "VS_NO_REPORT_STATUS": "No Report",
+  "VS_DT_PREFERRED_VEHICLE": "DT PREFERRED VEHICLE",
+
+  "DEALER_NUMBER_PLACEHOLDER": "Select an IC Location"
+}
